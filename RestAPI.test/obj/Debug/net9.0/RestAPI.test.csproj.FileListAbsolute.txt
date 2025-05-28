@@ -110,3 +110,4 @@ D:\code\assess\RestAPI\RestAPI.test\obj\Debug\net9.0\refint\RestAPI.test.dll
 D:\code\assess\RestAPI\RestAPI.test\obj\Debug\net9.0\RestAPI.test.pdb
 D:\code\assess\RestAPI\RestAPI.test\obj\Debug\net9.0\RestAPI.test.genruntimeconfig.cache
 D:\code\assess\RestAPI\RestAPI.test\obj\Debug\net9.0\ref\RestAPI.test.dll
+D:\code\assess\RestAPI\RestAPI.test\obj\Debug\net9.0\RestAPI.test.sourcelink.json

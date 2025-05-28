@@ -27,3 +27,4 @@ D:\code\assess\RestAPI\RestAPI\obj\Debug\net9.0\RestAPI.pdb
 D:\code\assess\RestAPI\RestAPI\obj\Debug\net9.0\RestAPI.genruntimeconfig.cache
 D:\code\assess\RestAPI\RestAPI\obj\Debug\net9.0\ref\RestAPI.dll
 D:\code\assess\RestAPI\RestAPI\bin\Debug\net9.0\customers.json
+D:\code\assess\RestAPI\RestAPI\obj\Debug\net9.0\RestAPI.sourcelink.json
